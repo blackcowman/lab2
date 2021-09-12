@@ -30,7 +30,7 @@ public class Main {
 		al.add(s8); 
 		Student s9 = new Student(109, "Jung", 27);
 		al.add(s9); 
-		Student s10 = new Student(110, "Hyun", 28);
+		Student s10 = new Student(110, "Hyun ", 28);
 		al.add(s10); 
 		
 		
